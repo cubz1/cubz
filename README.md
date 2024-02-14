@@ -6,16 +6,16 @@
 
 
 ## 🌍 Programming languages:
-[![progLang](https://skillicons.dev/icons?i=js,html,css,py,cs,php&theme=dark)](https://github.com/derpinou)
+[![progLang](https://skillicons.dev/icons?i=js,html,css,py,cs,php&theme=dark)](https://github.com/cubz1)
 
 
 ## ⚙️ Tools:
 
-  [![tools](https://skillicons.dev/icons?i=vscode,idea&theme=dark)](https://github.com/derpinou)
+  [![tools](https://skillicons.dev/icons?i=vscode,idea&theme=dark)](https://github.com/cubz1)
     
   
 ## 📦 Databases:
- [![databases](https://skillicons.dev/icons?i=mysql,sqlserver&theme=dark)](https://github.com/derpinou)
+ [![databases](https://skillicons.dev/icons?i=mysql,sqlserver&theme=dark)](https://github.com/cubz1)
 
 ## 🔧 OS :
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
