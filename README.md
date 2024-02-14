@@ -6,7 +6,7 @@
 
 
 ## 🌍 Programming languages:
-[![progLang](https://skillicons.dev/icons?i=ts,js,java,html,css,py,cs,php&theme=dark)](https://github.com/derpinou)
+[![progLang](https://skillicons.dev/icons?i=js,java,html,css,py,cs,php&theme=dark)](https://github.com/derpinou)
 
 
 ## ⚙️ Tools:
